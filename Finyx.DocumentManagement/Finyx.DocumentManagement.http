@@ -1,0 +1,6 @@
+@Finyx.DocumentManagement_HostAddress = http://localhost:5251
+
+GET {{Finyx.DocumentManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
